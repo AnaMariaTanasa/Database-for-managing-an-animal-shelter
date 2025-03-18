@@ -1,0 +1,14 @@
+drop SEQUENCE animal_id_seq;
+drop SEQUENCE ID_CONTRACT_SEQ;
+drop SEQUENCE CAGE_ID_SEQ;
+drop SEQUENCE CLINICAL_EXAM_ID_SEQ;
+drop SEQUENCE HAB_ID_SEQ;
+drop table ANGAJAT cascade constraints;
+drop table ANIMAL cascade constraints;
+drop table CLIENT cascade constraints;
+drop table CONTRACT cascade constraints;
+drop table CUSCA cascade constraints;
+drop table DETALII_ANIMAL cascade constraints;
+drop table EXAMINARE_CLINICA cascade constraints;
+drop table LISTA_DE_HABITATIE cascade constraints;
+drop table TURA cascade constraints;
