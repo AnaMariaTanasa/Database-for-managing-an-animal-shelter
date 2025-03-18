@@ -25,7 +25,7 @@ prescripțiilor eliberate de către veterinari. De asemenea, toate numerele de t
 considerate cu prefix +4 și nu se sție cât timp este păstrat istoricul adăpostului sau care 
 este vârsta maximă a unui animal( se consideră  in model maximul de 99). 
 
-#Diagrama logica
+#Diagrama_logica
 ![Diagrama logica](Logical.png)
-#Diagrama relationala
+#Diagrama_relationala
 ![Diagrama relationala](Relational.png)
