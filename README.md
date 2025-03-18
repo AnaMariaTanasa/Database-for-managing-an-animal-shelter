@@ -24,3 +24,8 @@ Proiectul nu tratează problema inventarului unui adăpost și nu are în vedere
 prescripțiilor eliberate de către veterinari. De asemenea, toate numerele de telefon sunt 
 considerate cu prefix +4 și nu se sție cât timp este păstrat istoricul adăpostului sau care 
 este vârsta maximă a unui animal( se consideră  in model maximul de 99). 
+
+#Diagrama logica
+![Diagrama logica](Logical.png)
+#Diagrama relationala
+![Diagrama relationala](Relational.png)
